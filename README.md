@@ -23,3 +23,7 @@ Useful flags: `--paper a4|letter`, `--levels 0.55 0.92` (raise the first to fade
 - Print a `--test-sheet` first: duplex flip direction differs per printer.
 - Handwriting inside the text block is not removed, only handwriting in the margins. Blank those pages with `--blank`.
 - Skip the cover spread with `--first 2`.
+
+## License
+
+[0BSD](LICENSE): do whatever you want with it.
